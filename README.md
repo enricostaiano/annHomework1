@@ -1,2 +1,2 @@
 # annHomework1
-Repo hosting files related to ANN Homework 1 @ Polimi (fall '22) 
+Repository for hosting work related to the Artificial Neural Networks and Deep Learning competion @Polimi (November '22) 
